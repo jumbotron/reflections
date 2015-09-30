@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 	You create a new repository in the directory that it is initialized in.  
 	Once you do, it creates a hidden .git file that manages meta-data used
 	for git repository.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Can run git diff and add or remove from staging area as necessary
