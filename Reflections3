@@ -1,4 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-      Multiple contributors, as a failsafe, in order to resume working on different machines.  
+		Multiple contributors, as a failsafe, in order to resume working on different machines.  
+	  
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+		Someone else may have contributed things that i do not wish to have on my remote. I'd like to keep control of this.
+
+
 
