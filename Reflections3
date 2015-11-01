@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 		The benefit is being able to merge your repositories when changes are made remotely and locally.  Otherwise 
 		collaboration on GitHub would be very difficult.
+		
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+		Subversion repository.  I wouldnt have to learn about Git but it would be harder to collaborate remotely.
